@@ -7,7 +7,7 @@ Obsidian에서 여러 vault 사용시 알프레드 호출창에서 **vault를 �
 > 이는 Electron 앱 특성으로 인한 제약사항입니다. 
 
 ### 다운로드
-
+https://github.com/inchanS/alfred-obsidian-vault-opener/releases/latest  
 
 ### 사용방법
 1. 알프레드 호출창에서 `ob`라고 입력 후, 스페이스 바를 누르면 모든 vault 목록이 나타납니다.
@@ -30,4 +30,3 @@ configure의 vault_list에 사용하는 vault 이름을 입력할 때 주의사�
 personal,work,study,familyLog      => O
 personal, work, study, familyLog   => X
 ```
-
