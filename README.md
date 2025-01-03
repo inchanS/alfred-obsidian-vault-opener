@@ -3,6 +3,8 @@
 
 Obsidian에서 여러 vault 사용시 알프레드 호출창에서 **vault를 선택하여 열수 있습니다.**   
 
+![preview](/assets/obsidian-vault-opener.gif)  
+
 > 만약 앱 종료 이후, 최초 실행시에는 Obsidian 앱 특성상 마지막에 열었던 vault와 함께 선택한 vault가 열리게 됩니다.  
 > 이는 Electron 앱 특성으로 인한 제약사항입니다. 
 
