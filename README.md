@@ -1,4 +1,8 @@
-## Alfred workflow - Obsidian Vault Opener
+# Alfred workflow - Obsidian Vault Opener
+![GitHub stars](https://img.shields.io/github/stars/inchans/alfred-obsidian-vault-opener?style=flat&logo=apachespark)
+![GitHub all releases](https://img.shields.io/github/downloads/inchanS/alfred-obsidian-vault-opener/total?logo=github) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/inchanS/alfred-obsidian-vault-opener?logo=rocket)  ![GitHub](https://img.shields.io/github/license/inchanS/alfred-obsidian-vault-opener)
+
+
 여러개의 vault를 필요에 따라 사용할 때마다 번거로워 간단하게 구현하였습니다.  
 
 Obsidian에서 여러 vault 사용시 알프레드 호출창에서 **vault를 선택하여 열수 있습니다.**   
